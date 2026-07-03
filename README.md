@@ -138,7 +138,7 @@ Analyzed customer review sentiment and presented key satisfaction drivers in a b
 
 <p align="center">
   <sub style="color:#0B1F5E;">
-    🐍 Animated snake eating my GitHub contributions — auto-updated via GitHub Actions
+    
   </sub>
 </p>
 
