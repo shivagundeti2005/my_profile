@@ -132,10 +132,11 @@ Analyzed customer review sentiment and presented key satisfaction drivers in a b
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shivagundeti2005/shivagundeti2005/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/shivagundeti2005/shivagundeti2005/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+  <img src="https://raw.githubusercontent.com/shivagundeti2005/shivagundeti2005/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
 </p>
 
-<p align="center"><sub>Animated snake eats through my contribution graph — auto-generated daily via GitHub Actions.</sub></p>
+<p align="center"><sub>Animated snake eats through my contribution graph — auto-generated daily via GitHub Actions. Switches automatically based on the viewer's GitHub theme.</sub></p>
 
 <br>
 
